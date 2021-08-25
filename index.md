@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Eastleigh College Computer Science"
 ---
 
-I'm glad you are here. I plan to talk about ...
+<ul>
+  <li>P. Harris</li>  
+  </ul>
+
+
